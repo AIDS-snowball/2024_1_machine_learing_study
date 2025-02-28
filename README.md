@@ -76,3 +76,4 @@
 ## 5. 참고 링크
 
 *   [혼공머신 구글 코랩 링크](https://github.com/rickiepark/hg-mldl?tab=readme-ov-file)
+*   [개념 자료(작성자:Chanyoung Shin]([[https://github.com/rickiepark/hg-mldl?tab=readme-ov-file](https://github.com/chanyoung-shin/machine_learning)](https://github.com/chanyoung-shin/machine_learning/wiki/A-brief-explanation-of-machine-learning-concepts))
